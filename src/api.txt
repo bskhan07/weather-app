@@ -1,0 +1,1 @@
+https://api.weatherapi.com/v1/current.json?key=1cfc14ad5a0d46918d5140711230908&q=jaipur&aqi=no
